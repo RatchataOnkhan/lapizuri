@@ -1,1 +1,6 @@
+
+
 goodbye Lapizuri makankosappo (edit) kamehameha (edit2)
+
+<<<<<<HEAD
+>>>>>>TAIL
